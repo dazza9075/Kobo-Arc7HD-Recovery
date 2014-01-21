@@ -1,1 +1,1 @@
-add_lunch_combo cm_macallan-eng
+add_lunch_combo cm_cardhu-eng
